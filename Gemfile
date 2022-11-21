@@ -24,3 +24,5 @@ end
 gem "http"
 gem "rack-cors"
 gem "jb"
+
+gem 'devise', '~> 4.8', '>= 4.8.1'
